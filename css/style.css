@@ -25,3 +25,7 @@
 #galeria .button-group button + button { /* margem em todos os botões menos no primeiro*/
     margin-left: 30px;
 }
+
+#galeria .button-group button.active {
+    color: #9400d3;
+}
